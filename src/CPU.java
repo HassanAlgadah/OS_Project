@@ -12,16 +12,23 @@ public class CPU {
         while (!u.RAMQ.isEmpty()){
             u.ToRam();
             PCB k = u.RAMQ.remove();
-            if(u.IsNormally()){
-                k.setProcessState("normally");
-            }else if(u.IsAbnormally()){
-                k.setProcessState("abnormally");
-            }else if(u.IsInterrupt()){
-                k.setProcessState("Interrupted");
-            }else if(u.IsIOrequest()){
-                k.setProcessState("Busy");
-            }else if(u.IsIOtrminate()){
-                k.setProcessState("IOtrminate");
+            while (true) {
+                k.setProcessState("Ready");
+                k.setProcessState("Running");
+                if (u.IsNormally()) {
+                    k.setProcessState("normally");
+                    break;
+                } else if (u.IsAbnormally()) {
+                    k.setProcessState("abnormally");
+                    break;
+                } else if (u.IsInterrupt()) {
+                    k.setProcessState("Interrupted");
+                } else if (u.IsIOrequest()) {
+                    k.setProcessState("Waiting");
+                    if (u.IsIOtrminate()) {
+                        k.setProcessState("IOtrminate");
+                    }
+                }
             }
             u.ram+=k.getSize();
             fnl.add(k);

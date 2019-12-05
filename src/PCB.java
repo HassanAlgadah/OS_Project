@@ -4,7 +4,7 @@ import java.util.Random;
 public class PCB implements Comparable<PCB> {
 	private Integer executionTime;
 	private int processID;
-	public String processState ="ready" ;
+	public String processState ="New" ;
 	private int size;
 
 

@@ -17,7 +17,8 @@ public class Utilities {
 
     public void genaratePCB() {
         while (HDD > 0) {
-            PCB k = new PCB(nJobs++);
+            nJobs++;
+            PCB k = new PCB(nJobs);
             HDDQ.add(k);
             HDD -= k.getSize();
             sizeJ += k.getSize();
