@@ -27,6 +27,7 @@ public class CPU {
                     k.setProcessState("Waiting");
                     if (u.IsIOtrminate()) {
                         k.setProcessState("IOtrminate");
+                        break;
                     }
                 }
             }
