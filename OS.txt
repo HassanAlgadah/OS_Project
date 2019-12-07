@@ -1,5 +1,5 @@
 The number of initially generated jobs stored on the H-disk = 252
-The average program size of all jobs: 7975KB
-The average number of jobs that have completed their execution normally: 0.5515873015873016 Jobs
-The average number of jobs that have completed their execution abnormally: 0.15476190476190477 Jobs
-The number of CPU bound jobs: 122 Jobs
+The average program size of all jobs: 7944KB
+The average number of jobs that have completed their execution normally: 0.5555555555555556 Jobs
+The average number of jobs that have completed their execution abnormally: 0.1626984126984127 Jobs
+The number of CPU bound jobs: 148 Jobs

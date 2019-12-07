@@ -1,1506 +1,1506 @@
-ID: 233
-state: normally
-size: 904
-The expected execution time 30
-
-
-ID: 229
-state: normally
-size: 1057
-The expected execution time 40
-
-
-ID: 200
-state: normally
-size: 1460
-The expected execution time 48
-
-
-ID: 211
-state: abnormally
-size: 130
-The expected execution time 54
-
-
-ID: 187
-state: normally
-size: 546
-The expected execution time 60
-
-
-ID: 124
-state: IOtrminate
-size: 116
-The expected execution time 67
-
-
-ID: 14
-state: abnormally
-size: 992
-The expected execution time 83
-
-
-ID: 69
-state: normally
-size: 561
-The expected execution time 96
-
-
-ID: 61
-state: IOtrminate
-size: 1589
-The expected execution time 110
-
-
-ID: 64
-state: IOtrminate
-size: 1809
-The expected execution time 114
-
-
-ID: 112
-state: normally
-size: 2159
-The expected execution time 109
-
-
-ID: 86
-state: normally
-size: 2008
-The expected execution time 115
-
-
-ID: 89
-state: IOtrminate
-size: 812
-The expected execution time 126
-
-
-ID: 127
-state: normally
-size: 1187
-The expected execution time 129
-
-
-ID: 23
-state: normally
-size: 580
-The expected execution time 132
-
-
-ID: 123
-state: normally
-size: 1543
-The expected execution time 152
-
-
-ID: 159
-state: normally
-size: 16
-The expected execution time 170
-
-
-ID: 95
-state: abnormally
-size: 1822
-The expected execution time 200
-
-
-ID: 198
-state: normally
-size: 1482
-The expected execution time 211
-
-
-ID: 142
-state: abnormally
-size: 1402
-The expected execution time 229
-
-
-ID: 40
-state: abnormally
-size: 2604
-The expected execution time 66
-
-
-ID: 221
-state: IOtrminate
-size: 2636
-The expected execution time 43
-
-
-ID: 7
-state: normally
-size: 2672
-The expected execution time 33
-
-
-ID: 73
-state: abnormally
-size: 942
-The expected execution time 238
-
-
-ID: 90
-state: normally
-size: 762
-The expected execution time 255
-
-
-ID: 249
-state: normally
-size: 212
-The expected execution time 259
-
-
-ID: 78
-state: normally
-size: 302
-The expected execution time 264
-
-
-ID: 51
-state: IOtrminate
-size: 260
-The expected execution time 270
-
-
-ID: 152
-state: IOtrminate
-size: 2474
-The expected execution time 271
-
-
-ID: 183
-state: IOtrminate
-size: 2511
-The expected execution time 272
-
-
-ID: 126
-state: normally
-size: 2737
-The expected execution time 280
-
-
-ID: 251
-state: normally
-size: 2573
-The expected execution time 288
-
-
-ID: 212
-state: IOtrminate
-size: 2919
-The expected execution time 37
-
-
-ID: 189
-state: abnormally
-size: 1792
-The expected execution time 301
-
-
 ID: 246
 state: IOtrminate
-size: 395
-The expected execution time 323
-
-
-ID: 72
-state: IOtrminate
-size: 2687
-The expected execution time 351
-
-
-ID: 25
-state: IOtrminate
-size: 2968
-The expected execution time 320
-
-
-ID: 186
-state: IOtrminate
-size: 3018
-The expected execution time 315
-
-
-ID: 176
-state: normally
-size: 3046
-The expected execution time 316
-
-
-ID: 168
-state: IOtrminate
-size: 3048
-The expected execution time 281
-
-
-ID: 143
-state: normally
-size: 3111
-The expected execution time 42
-
-
-ID: 164
-state: normally
-size: 3120
-The expected execution time 155
-
-
-ID: 63
-state: IOtrminate
-size: 3238
-The expected execution time 231
-
-
-ID: 128
-state: normally
-size: 3252
-The expected execution time 212
-
-
-ID: 52
-state: normally
-size: 3300
-The expected execution time 335
-
-
-ID: 109
-state: normally
-size: 3440
-The expected execution time 317
-
-
-ID: 196
-state: normally
-size: 3499
-The expected execution time 320
-
-
-ID: 175
-state: normally
-size: 3683
-The expected execution time 28
-
-
-ID: 244
-state: IOtrminate
-size: 3775
-The expected execution time 180
-
-
-ID: 136
-state: normally
-size: 3780
-The expected execution time 49
-
-
-ID: 15
-state: abnormally
-size: 3955
-The expected execution time 269
-
-
-ID: 53
-state: IOtrminate
-size: 2857
-The expected execution time 370
-
-
-ID: 108
-state: normally
-size: 4104
-The expected execution time 365
-
-
-ID: 217
-state: normally
-size: 2322
-The expected execution time 393
-
-
-ID: 110
-state: normally
-size: 2748
-The expected execution time 405
-
-
-ID: 81
-state: normally
-size: 1696
-The expected execution time 407
-
-
-ID: 243
-state: normally
-size: 1287
-The expected execution time 408
-
-
-ID: 121
-state: IOtrminate
-size: 4217
-The expected execution time 311
-
-
-ID: 130
-state: normally
-size: 4247
-The expected execution time 219
-
-
-ID: 206
-state: normally
-size: 4250
-The expected execution time 337
-
-
-ID: 68
-state: normally
-size: 4362
-The expected execution time 275
-
-
-ID: 54
-state: normally
-size: 4545
-The expected execution time 179
-
-
-ID: 220
-state: abnormally
-size: 4008
-The expected execution time 412
-
-
-ID: 218
-state: normally
-size: 4179
-The expected execution time 442
-
-
-ID: 94
-state: IOtrminate
-size: 4920
-The expected execution time 143
-
-
-ID: 87
-state: normally
-size: 5061
-The expected execution time 139
-
-
-ID: 133
-state: IOtrminate
-size: 1675
-The expected execution time 447
-
-
-ID: 106
-state: normally
-size: 5175
-The expected execution time 64
-
-
-ID: 239
-state: IOtrminate
-size: 5276
-The expected execution time 322
-
-
-ID: 20
-state: abnormally
-size: 5481
-The expected execution time 407
-
-
-ID: 141
-state: IOtrminate
-size: 5494
-The expected execution time 161
-
-
-ID: 214
-state: normally
-size: 5592
-The expected execution time 266
-
-
-ID: 100
-state: IOtrminate
-size: 5622
-The expected execution time 216
-
-
-ID: 201
-state: normally
-size: 5699
-The expected execution time 257
-
-
-ID: 215
-state: IOtrminate
-size: 5780
-The expected execution time 441
-
-
-ID: 50
-state: IOtrminate
-size: 5793
-The expected execution time 87
-
-
-ID: 161
-state: normally
-size: 5884
-The expected execution time 350
-
-
-ID: 226
-state: normally
-size: 5885
-The expected execution time 75
-
-
-ID: 156
-state: normally
-size: 5894
-The expected execution time 354
-
-
-ID: 67
-state: normally
-size: 6086
-The expected execution time 212
-
-
-ID: 178
-state: normally
-size: 6138
-The expected execution time 283
-
-
-ID: 99
-state: IOtrminate
-size: 6176
-The expected execution time 429
-
-
-ID: 80
-state: IOtrminate
-size: 6380
-The expected execution time 373
-
-
-ID: 35
-state: IOtrminate
-size: 6470
-The expected execution time 272
-
-
-ID: 219
-state: normally
-size: 6558
-The expected execution time 264
-
-
-ID: 4
-state: abnormally
-size: 6622
-The expected execution time 289
-
-
-ID: 204
-state: normally
-size: 6632
-The expected execution time 46
-
-
-ID: 180
-state: IOtrminate
-size: 6636
-The expected execution time 153
-
-
-ID: 102
-state: normally
-size: 1150
-The expected execution time 447
-
-
-ID: 223
-state: abnormally
-size: 931
-The expected execution time 450
-
-
-ID: 5
-state: IOtrminate
-size: 96
-The expected execution time 450
-
-
-ID: 144
-state: normally
-size: 1367
-The expected execution time 453
-
-
-ID: 138
-state: IOtrminate
-size: 2779
-The expected execution time 454
-
-
-ID: 65
-state: abnormally
-size: 6843
-The expected execution time 170
-
-
-ID: 6
-state: normally
-size: 6888
-The expected execution time 368
-
-
-ID: 70
-state: IOtrminate
-size: 1920
-The expected execution time 460
-
-
-ID: 240
-state: normally
-size: 1962
-The expected execution time 462
-
-
-ID: 151
-state: IOtrminate
-size: 583
-The expected execution time 464
-
-
-ID: 71
-state: IOtrminate
-size: 2935
-The expected execution time 471
-
-
-ID: 163
-state: normally
-size: 6906
-The expected execution time 327
-
-
-ID: 98
-state: abnormally
-size: 6939
-The expected execution time 181
-
-
-ID: 113
-state: normally
-size: 6975
-The expected execution time 143
-
-
-ID: 234
-state: normally
-size: 7230
-The expected execution time 238
-
-
-ID: 167
-state: IOtrminate
-size: 7310
-The expected execution time 123
-
-
-ID: 140
-state: IOtrminate
-size: 7348
-The expected execution time 445
-
-
-ID: 17
-state: abnormally
-size: 7463
-The expected execution time 462
-
-
-ID: 38
-state: normally
-size: 7676
-The expected execution time 97
-
-
-ID: 207
-state: IOtrminate
-size: 7694
-The expected execution time 424
-
-
-ID: 199
-state: abnormally
-size: 7712
-The expected execution time 326
-
-
-ID: 145
-state: abnormally
-size: 7724
-The expected execution time 316
-
-
-ID: 203
-state: normally
-size: 7817
-The expected execution time 434
-
-
-ID: 8
-state: normally
-size: 7863
-The expected execution time 89
-
-
-ID: 245
-state: IOtrminate
-size: 7915
-The expected execution time 266
-
-
-ID: 191
-state: normally
-size: 7920
-The expected execution time 329
-
-
-ID: 105
-state: normally
-size: 8063
-The expected execution time 55
-
-
-ID: 22
-state: normally
-size: 8104
-The expected execution time 259
-
-
-ID: 185
-state: IOtrminate
-size: 8203
-The expected execution time 112
-
-
-ID: 18
-state: IOtrminate
-size: 8377
-The expected execution time 283
-
-
-ID: 241
-state: normally
-size: 8450
-The expected execution time 115
-
-
-ID: 247
-state: normally
-size: 8457
-The expected execution time 38
-
-
-ID: 82
-state: IOtrminate
-size: 8558
-The expected execution time 37
-
-
-ID: 177
-state: IOtrminate
-size: 8561
-The expected execution time 291
-
-
-ID: 88
-state: normally
-size: 8612
-The expected execution time 456
-
-
-ID: 92
-state: IOtrminate
-size: 8670
-The expected execution time 204
-
-
-ID: 125
-state: abnormally
-size: 591
-The expected execution time 475
-
-
-ID: 77
-state: abnormally
-size: 4194
-The expected execution time 480
-
-
-ID: 116
-state: normally
-size: 318
-The expected execution time 486
-
-
-ID: 236
-state: abnormally
-size: 91
-The expected execution time 492
-
-
-ID: 103
-state: normally
-size: 5088
-The expected execution time 492
-
-
-ID: 213
-state: normally
-size: 9107
-The expected execution time 466
-
-
-ID: 137
-state: normally
-size: 9192
-The expected execution time 324
-
-
-ID: 75
-state: normally
-size: 9215
-The expected execution time 146
-
-
-ID: 56
-state: IOtrminate
-size: 9298
-The expected execution time 453
-
-
-ID: 160
-state: normally
-size: 9399
-The expected execution time 409
-
-
-ID: 135
-state: normally
-size: 9598
-The expected execution time 65
-
-
-ID: 43
-state: IOtrminate
-size: 9619
-The expected execution time 451
-
-
-ID: 32
-state: normally
-size: 9785
-The expected execution time 127
-
-
-ID: 192
-state: normally
-size: 9831
-The expected execution time 195
-
-
-ID: 9
-state: abnormally
-size: 9852
-The expected execution time 244
-
-
-ID: 2
-state: normally
-size: 9912
-The expected execution time 335
-
-
-ID: 66
-state: normally
-size: 9970
-The expected execution time 211
-
-
-ID: 118
-state: normally
-size: 9990
-The expected execution time 40
-
-
-ID: 224
-state: IOtrminate
-size: 10028
-The expected execution time 42
-
-
-ID: 225
-state: normally
-size: 10367
-The expected execution time 55
-
-
-ID: 117
-state: normally
-size: 10374
-The expected execution time 144
-
-
-ID: 83
-state: abnormally
-size: 4730
-The expected execution time 494
-
-
-ID: 169
-state: normally
-size: 885
-The expected execution time 495
-
-
-ID: 55
-state: IOtrminate
-size: 6778
-The expected execution time 502
-
-
-ID: 162
-state: IOtrminate
-size: 10397
-The expected execution time 368
-
-
-ID: 250
-state: IOtrminate
-size: 10407
-The expected execution time 114
-
-
-ID: 194
-state: normally
-size: 10467
-The expected execution time 243
-
-
-ID: 46
-state: normally
-size: 10529
-The expected execution time 16
-
-
-ID: 182
-state: normally
-size: 10632
-The expected execution time 362
-
-
-ID: 31
-state: normally
-size: 10703
-The expected execution time 201
-
-
-ID: 104
-state: abnormally
-size: 10712
-The expected execution time 376
-
-
-ID: 173
-state: abnormally
-size: 10714
-The expected execution time 157
-
-
-ID: 47
-state: normally
-size: 10780
-The expected execution time 114
-
-
-ID: 107
-state: IOtrminate
-size: 10800
-The expected execution time 453
-
-
-ID: 205
-state: normally
-size: 10804
-The expected execution time 459
-
-
-ID: 170
-state: normally
-size: 10820
-The expected execution time 333
-
-
-ID: 227
-state: IOtrminate
-size: 10824
-The expected execution time 56
-
-
-ID: 101
-state: IOtrminate
-size: 10390
-The expected execution time 502
-
-
-ID: 114
-state: normally
-size: 11102
-The expected execution time 346
-
-
-ID: 155
-state: normally
-size: 11102
-The expected execution time 53
-
-
-ID: 132
-state: abnormally
-size: 11170
-The expected execution time 470
-
-
-ID: 30
-state: normally
-size: 11216
-The expected execution time 374
-
-
-ID: 242
-state: IOtrminate
-size: 11299
-The expected execution time 354
-
-
-ID: 129
-state: normally
-size: 11382
-The expected execution time 39
-
-
-ID: 84
-state: normally
-size: 11462
-The expected execution time 302
+size: 220
+The expected execution time 32
 
 
 ID: 166
 state: normally
-size: 11482
-The expected execution time 229
+size: 1191
+The expected execution time 38
+
+
+ID: 87
+state: normally
+size: 1623
+The expected execution time 57
+
+
+ID: 207
+state: normally
+size: 902
+The expected execution time 92
+
+
+ID: 107
+state: IOtrminate
+size: 1241
+The expected execution time 101
+
+
+ID: 43
+state: normally
+size: 478
+The expected execution time 104
+
+
+ID: 227
+state: abnormally
+size: 1051
+The expected execution time 119
+
+
+ID: 8
+state: normally
+size: 1071
+The expected execution time 119
+
+
+ID: 242
+state: IOtrminate
+size: 1721
+The expected execution time 126
+
+
+ID: 79
+state: IOtrminate
+size: 1294
+The expected execution time 138
 
 
 ID: 209
+state: abnormally
+size: 2273
+The expected execution time 22
+
+
+ID: 218
 state: normally
-size: 11489
+size: 1735
+The expected execution time 166
+
+
+ID: 113
+state: IOtrminate
+size: 1300
+The expected execution time 171
+
+
+ID: 238
+state: normally
+size: 382
+The expected execution time 174
+
+
+ID: 109
+state: normally
+size: 482
+The expected execution time 174
+
+
+ID: 20
+state: normally
+size: 127
+The expected execution time 179
+
+
+ID: 69
+state: abnormally
+size: 29
+The expected execution time 202
+
+
+ID: 251
+state: normally
+size: 1110
+The expected execution time 203
+
+
+ID: 71
+state: IOtrminate
+size: 2063
+The expected execution time 208
+
+
+ID: 41
+state: normally
+size: 2631
+The expected execution time 99
+
+
+ID: 157
+state: IOtrminate
+size: 1469
+The expected execution time 220
+
+
+ID: 118
+state: normally
+size: 2737
+The expected execution time 232
+
+
+ID: 67
+state: IOtrminate
+size: 2738
+The expected execution time 186
+
+
+ID: 70
+state: normally
+size: 1997
+The expected execution time 240
+
+
+ID: 198
+state: IOtrminate
+size: 176
+The expected execution time 257
+
+
+ID: 2
+state: normally
+size: 95
+The expected execution time 264
+
+
+ID: 127
+state: normally
+size: 891
+The expected execution time 280
+
+
+ID: 241
+state: normally
+size: 2241
+The expected execution time 283
+
+
+ID: 3
+state: IOtrminate
+size: 2877
+The expected execution time 23
+
+
+ID: 53
+state: IOtrminate
+size: 2910
+The expected execution time 262
+
+
+ID: 163
+state: abnormally
+size: 2916
+The expected execution time 106
+
+
+ID: 161
+state: IOtrminate
+size: 2974
+The expected execution time 280
+
+
+ID: 121
+state: normally
+size: 3116
+The expected execution time 70
+
+
+ID: 105
+state: normally
+size: 3192
+The expected execution time 156
+
+
+ID: 183
+state: normally
+size: 63
+The expected execution time 293
+
+
+ID: 133
+state: normally
+size: 1209
+The expected execution time 301
+
+
+ID: 178
+state: IOtrminate
+size: 1505
+The expected execution time 317
+
+
+ID: 108
+state: normally
+size: 3345
+The expected execution time 23
+
+
+ID: 59
+state: normally
+size: 2812
+The expected execution time 320
+
+
+ID: 245
+state: normally
+size: 459
+The expected execution time 332
+
+
+ID: 73
+state: IOtrminate
+size: 180
+The expected execution time 341
+
+
+ID: 252
+state: normally
+size: 3397
+The expected execution time 346
+
+
+ID: 138
+state: normally
+size: 3609
+The expected execution time 293
+
+
+ID: 11
+state: IOtrminate
+size: 2531
+The expected execution time 348
+
+
+ID: 136
+state: normally
+size: 2832
+The expected execution time 352
+
+
+ID: 80
+state: normally
+size: 2053
+The expected execution time 353
+
+
+ID: 151
+state: abnormally
+size: 3859
+The expected execution time 209
+
+
+ID: 7
+state: IOtrminate
+size: 3886
+The expected execution time 39
+
+
+ID: 181
+state: IOtrminate
+size: 4127
+The expected execution time 87
+
+
+ID: 13
+state: IOtrminate
+size: 3640
+The expected execution time 362
+
+
+ID: 37
+state: normally
+size: 4292
+The expected execution time 18
+
+
+ID: 14
+state: normally
+size: 4376
+The expected execution time 245
+
+
+ID: 199
+state: normally
+size: 4453
+The expected execution time 151
+
+
+ID: 51
+state: normally
+size: 4499
+The expected execution time 150
+
+
+ID: 140
+state: normally
+size: 4513
+The expected execution time 76
+
+
+ID: 116
+state: abnormally
+size: 4702
+The expected execution time 339
+
+
+ID: 202
+state: IOtrminate
+size: 1874
+The expected execution time 370
+
+
+ID: 201
+state: normally
+size: 1401
+The expected execution time 373
+
+
+ID: 78
+state: normally
+size: 2578
+The expected execution time 380
+
+
+ID: 88
+state: abnormally
+size: 4819
+The expected execution time 151
+
+
+ID: 50
+state: IOtrminate
+size: 4959
+The expected execution time 371
+
+
+ID: 46
+state: normally
+size: 2436
+The expected execution time 381
+
+
+ID: 221
+state: normally
+size: 734
+The expected execution time 382
+
+
+ID: 15
+state: normally
+size: 1882
+The expected execution time 384
+
+
+ID: 39
+state: normally
+size: 5130
+The expected execution time 56
+
+
+ID: 31
+state: normally
+size: 5148
+The expected execution time 278
+
+
+ID: 237
+state: IOtrminate
+size: 1414
+The expected execution time 396
+
+
+ID: 247
+state: normally
+size: 5067
+The expected execution time 400
+
+
+ID: 94
+state: normally
+size: 708
+The expected execution time 403
+
+
+ID: 125
+state: normally
+size: 5236
+The expected execution time 415
+
+
+ID: 64
+state: abnormally
+size: 5359
+The expected execution time 398
+
+
+ID: 197
+state: normally
+size: 5457
+The expected execution time 375
+
+
+ID: 35
+state: IOtrminate
+size: 5498
+The expected execution time 19
+
+
+ID: 98
+state: normally
+size: 5575
+The expected execution time 58
+
+
+ID: 40
+state: abnormally
+size: 3395
+The expected execution time 418
+
+
+ID: 219
+state: abnormally
+size: 5631
+The expected execution time 389
+
+
+ID: 211
+state: normally
+size: 1005
+The expected execution time 439
+
+
+ID: 132
+state: abnormally
+size: 5316
+The expected execution time 445
+
+
+ID: 30
+state: normally
+size: 5765
+The expected execution time 293
+
+
+ID: 22
+state: IOtrminate
+size: 5867
+The expected execution time 286
+
+
+ID: 28
+state: IOtrminate
+size: 6094
+The expected execution time 96
+
+
+ID: 150
+state: IOtrminate
+size: 6127
 The expected execution time 129
 
 
 ID: 58
 state: normally
-size: 11555
-The expected execution time 85
-
-
-ID: 171
-state: normally
-size: 11653
-The expected execution time 161
-
-
-ID: 45
-state: abnormally
-size: 6892
-The expected execution time 504
-
-
-ID: 153
-state: normally
-size: 11658
-The expected execution time 504
-
-
-ID: 12
-state: normally
-size: 11693
-The expected execution time 488
+size: 6146
+The expected execution time 298
 
 
 ID: 210
-state: normally
-size: 11796
-The expected execution time 427
-
-
-ID: 216
 state: IOtrminate
-size: 11810
-The expected execution time 154
+size: 6155
+The expected execution time 426
 
 
-ID: 11
-state: normally
-size: 10986
-The expected execution time 505
-
-
-ID: 158
+ID: 45
 state: IOtrminate
-size: 11863
-The expected execution time 265
-
-
-ID: 42
-state: normally
-size: 11919
-The expected execution time 430
-
-
-ID: 96
-state: normally
-size: 11997
-The expected execution time 191
-
-
-ID: 76
-state: abnormally
-size: 12057
-The expected execution time 290
-
-
-ID: 222
-state: abnormally
-size: 12085
-The expected execution time 322
-
-
-ID: 139
-state: IOtrminate
-size: 12100
-The expected execution time 476
-
-
-ID: 150
-state: normally
-size: 12101
-The expected execution time 93
-
-
-ID: 49
-state: abnormally
-size: 12140
-The expected execution time 304
-
-
-ID: 34
-state: normally
-size: 12376
-The expected execution time 380
-
-
-ID: 111
-state: normally
-size: 12449
-The expected execution time 412
-
-
-ID: 16
-state: IOtrminate
-size: 12654
-The expected execution time 326
-
-
-ID: 154
-state: normally
-size: 12724
-The expected execution time 52
-
-
-ID: 230
-state: normally
-size: 12788
-The expected execution time 116
-
-
-ID: 97
-state: normally
-size: 12789
-The expected execution time 243
-
-
-ID: 146
-state: normally
-size: 12849
-The expected execution time 241
-
-
-ID: 48
-state: IOtrminate
-size: 12865
-The expected execution time 304
-
-
-ID: 10
-state: IOtrminate
-size: 12870
-The expected execution time 384
-
-
-ID: 57
-state: IOtrminate
-size: 12876
-The expected execution time 373
-
-
-ID: 122
-state: normally
-size: 12934
-The expected execution time 243
-
-
-ID: 19
-state: IOtrminate
-size: 12972
-The expected execution time 86
-
-
-ID: 24
-state: IOtrminate
-size: 13007
-The expected execution time 193
-
-
-ID: 174
-state: abnormally
-size: 13080
-The expected execution time 494
+size: 1257
+The expected execution time 446
 
 
 ID: 149
 state: normally
-size: 13080
-The expected execution time 234
+size: 5615
+The expected execution time 451
 
 
-ID: 195
-state: normally
-size: 13250
-The expected execution time 369
-
-
-ID: 29
+ID: 9
 state: abnormally
-size: 13466
-The expected execution time 505
+size: 6246
+The expected execution time 163
 
 
-ID: 252
-state: normally
-size: 13508
-The expected execution time 365
-
-
-ID: 188
-state: normally
-size: 13601
-The expected execution time 181
-
-
-ID: 157
+ID: 4
 state: abnormally
-size: 13639
-The expected execution time 294
+size: 6264
+The expected execution time 304
 
 
-ID: 79
+ID: 81
+state: abnormally
+size: 6271
+The expected execution time 192
+
+
+ID: 244
+state: normally
+size: 6322
+The expected execution time 27
+
+
+ID: 49
+state: normally
+size: 6463
+The expected execution time 397
+
+
+ID: 101
+state: normally
+size: 6566
+The expected execution time 278
+
+
+ID: 213
+state: normally
+size: 6610
+The expected execution time 207
+
+
+ID: 61
 state: IOtrminate
-size: 13676
-The expected execution time 194
+size: 6625
+The expected execution time 186
 
 
-ID: 91
+ID: 18
+state: normally
+size: 6658
+The expected execution time 317
+
+
+ID: 182
 state: IOtrminate
-size: 13704
-The expected execution time 241
+size: 6748
+The expected execution time 387
+
+
+ID: 17
+state: IOtrminate
+size: 6839
+The expected execution time 428
+
+
+ID: 34
+state: normally
+size: 6862
+The expected execution time 437
+
+
+ID: 111
+state: abnormally
+size: 6907
+The expected execution time 238
+
+
+ID: 115
+state: normally
+size: 6911
+The expected execution time 318
+
+
+ID: 84
+state: IOtrminate
+size: 6989
+The expected execution time 295
+
+
+ID: 89
+state: normally
+size: 7051
+The expected execution time 127
+
+
+ID: 170
+state: normally
+size: 7145
+The expected execution time 275
+
+
+ID: 175
+state: abnormally
+size: 7213
+The expected execution time 147
 
 
 ID: 228
 state: normally
-size: 13769
-The expected execution time 473
-
-
-ID: 181
-state: IOtrminate
-size: 13782
-The expected execution time 234
-
-
-ID: 62
-state: normally
-size: 13789
-The expected execution time 337
-
-
-ID: 231
-state: abnormally
-size: 13799
-The expected execution time 304
-
-
-ID: 193
-state: IOtrminate
-size: 1679
-The expected execution time 507
-
-
-ID: 119
-state: abnormally
-size: 13863
-The expected execution time 509
+size: 7223
+The expected execution time 117
 
 
 ID: 190
-state: IOtrminate
-size: 13965
-The expected execution time 19
-
-
-ID: 232
-state: IOtrminate
-size: 14034
-The expected execution time 340
-
-
-ID: 115
-state: abnormally
-size: 14180
-The expected execution time 412
-
-
-ID: 148
-state: IOtrminate
-size: 14206
-The expected execution time 418
-
-
-ID: 197
 state: normally
-size: 14269
-The expected execution time 482
-
-
-ID: 147
-state: normally
-size: 14367
-The expected execution time 372
-
-
-ID: 93
-state: normally
-size: 11835
-The expected execution time 513
-
-
-ID: 237
-state: abnormally
-size: 14462
-The expected execution time 242
-
-
-ID: 235
-state: normally
-size: 14463
-The expected execution time 277
-
-
-ID: 44
-state: normally
-size: 14476
-The expected execution time 264
-
-
-ID: 74
-state: IOtrminate
-size: 14486
-The expected execution time 268
-
-
-ID: 184
-state: normally
-size: 14515
-The expected execution time 287
-
-
-ID: 27
-state: normally
-size: 14573
-The expected execution time 31
-
-
-ID: 172
-state: normally
-size: 14698
-The expected execution time 330
+size: 7287
+The expected execution time 141
 
 
 ID: 134
 state: IOtrminate
-size: 14703
-The expected execution time 386
+size: 7389
+The expected execution time 45
 
 
-ID: 248
+ID: 122
 state: normally
-size: 14966
-The expected execution time 446
+size: 7464
+The expected execution time 145
 
 
-ID: 60
+ID: 229
 state: normally
-size: 14988
-The expected execution time 293
+size: 7503
+The expected execution time 331
 
 
-ID: 33
+ID: 10
 state: IOtrminate
-size: 14991
-The expected execution time 62
+size: 7544
+The expected execution time 109
 
 
-ID: 85
+ID: 225
 state: normally
-size: 15088
-The expected execution time 66
+size: 7549
+The expected execution time 104
 
 
-ID: 59
-state: normally
-size: 15101
-The expected execution time 466
-
-
-ID: 3
+ID: 191
 state: abnormally
-size: 15105
-The expected execution time 29
+size: 7573
+The expected execution time 362
 
 
-ID: 238
+ID: 131
+state: IOtrminate
+size: 7577
+The expected execution time 327
+
+
+ID: 65
 state: normally
-size: 15138
-The expected execution time 88
+size: 7716
+The expected execution time 296
+
+
+ID: 203
+state: IOtrminate
+size: 245
+The expected execution time 456
+
+
+ID: 187
+state: normally
+size: 7740
+The expected execution time 461
+
+
+ID: 224
+state: normally
+size: 7819
+The expected execution time 104
+
+
+ID: 29
+state: normally
+size: 7883
+The expected execution time 72
+
+
+ID: 75
+state: IOtrminate
+size: 7932
+The expected execution time 41
+
+
+ID: 42
+state: normally
+size: 7940
+The expected execution time 44
+
+
+ID: 90
+state: normally
+size: 7962
+The expected execution time 436
+
+
+ID: 214
+state: normally
+size: 8016
+The expected execution time 358
+
+
+ID: 103
+state: normally
+size: 8068
+The expected execution time 234
+
+
+ID: 235
+state: normally
+size: 8088
+The expected execution time 89
+
+
+ID: 186
+state: abnormally
+size: 592
+The expected execution time 465
 
 
 ID: 21
 state: normally
-size: 15351
-The expected execution time 483
+size: 546
+The expected execution time 466
 
 
-ID: 39
-state: abnormally
-size: 15419
-The expected execution time 192
-
-
-ID: 13
+ID: 6
 state: normally
-size: 15500
-The expected execution time 211
-
-
-ID: 202
-state: normally
-size: 15655
-The expected execution time 422
-
-
-ID: 165
-state: normally
-size: 15685
-The expected execution time 170
-
-
-ID: 120
-state: IOtrminate
-size: 15915
-The expected execution time 92
-
-
-ID: 131
-state: normally
-size: 15933
-The expected execution time 196
-
-
-ID: 28
-state: normally
-size: 16062
-The expected execution time 280
+size: 6233
+The expected execution time 470
 
 
 ID: 208
 state: normally
-size: 16088
-The expected execution time 303
+size: 8323
+The expected execution time 110
 
 
-ID: 41
-state: abnormally
-size: 16155
-The expected execution time 440
-
-
-ID: 179
+ID: 139
 state: normally
-size: 16193
-The expected execution time 377
+size: 8420
+The expected execution time 452
+
+
+ID: 188
+state: normally
+size: 8466
+The expected execution time 178
+
+
+ID: 249
+state: normally
+size: 8616
+The expected execution time 16
+
+
+ID: 216
+state: IOtrminate
+size: 8633
+The expected execution time 463
+
+
+ID: 185
+state: IOtrminate
+size: 8727
+The expected execution time 130
+
+
+ID: 117
+state: normally
+size: 8739
+The expected execution time 399
+
+
+ID: 145
+state: abnormally
+size: 4217
+The expected execution time 472
+
+
+ID: 147
+state: IOtrminate
+size: 8873
+The expected execution time 477
+
+
+ID: 16
+state: normally
+size: 9104
+The expected execution time 171
+
+
+ID: 93
+state: normally
+size: 9216
+The expected execution time 255
+
+
+ID: 165
+state: normally
+size: 9225
+The expected execution time 28
+
+
+ID: 19
+state: normally
+size: 3311
+The expected execution time 478
+
+
+ID: 25
+state: IOtrminate
+size: 9240
+The expected execution time 432
+
+
+ID: 12
+state: IOtrminate
+size: 9240
+The expected execution time 222
+
+
+ID: 236
+state: abnormally
+size: 9262
+The expected execution time 91
+
+
+ID: 86
+state: abnormally
+size: 9437
+The expected execution time 167
+
+
+ID: 56
+state: normally
+size: 9580
+The expected execution time 250
+
+
+ID: 173
+state: IOtrminate
+size: 9667
+The expected execution time 328
+
+
+ID: 126
+state: IOtrminate
+size: 9675
+The expected execution time 26
+
+
+ID: 91
+state: IOtrminate
+size: 9816
+The expected execution time 408
+
+
+ID: 174
+state: normally
+size: 9833
+The expected execution time 184
+
+
+ID: 48
+state: IOtrminate
+size: 9914
+The expected execution time 112
+
+
+ID: 100
+state: normally
+size: 10050
+The expected execution time 46
+
+
+ID: 223
+state: normally
+size: 10073
+The expected execution time 457
+
+
+ID: 36
+state: abnormally
+size: 5658
+The expected execution time 489
+
+
+ID: 154
+state: normally
+size: 3810
+The expected execution time 498
+
+
+ID: 74
+state: normally
+size: 10323
+The expected execution time 504
+
+
+ID: 112
+state: normally
+size: 10554
+The expected execution time 81
+
+
+ID: 95
+state: abnormally
+size: 10638
+The expected execution time 435
+
+
+ID: 57
+state: normally
+size: 10658
+The expected execution time 145
+
+
+ID: 128
+state: abnormally
+size: 10678
+The expected execution time 497
+
+
+ID: 230
+state: abnormally
+size: 10707
+The expected execution time 231
+
+
+ID: 68
+state: normally
+size: 10724
+The expected execution time 348
+
+
+ID: 212
+state: normally
+size: 10740
+The expected execution time 164
+
+
+ID: 33
+state: normally
+size: 10751
+The expected execution time 320
+
+
+ID: 159
+state: IOtrminate
+size: 10753
+The expected execution time 450
+
+
+ID: 189
+state: IOtrminate
+size: 10809
+The expected execution time 200
+
+
+ID: 168
+state: abnormally
+size: 10845
+The expected execution time 458
+
+
+ID: 129
+state: normally
+size: 10971
+The expected execution time 17
+
+
+ID: 206
+state: IOtrminate
+size: 10980
+The expected execution time 198
+
+
+ID: 97
+state: normally
+size: 11075
+The expected execution time 171
+
+
+ID: 85
+state: normally
+size: 11095
+The expected execution time 197
+
+
+ID: 83
+state: IOtrminate
+size: 11142
+The expected execution time 340
+
+
+ID: 195
+state: normally
+size: 11149
+The expected execution time 430
 
 
 ID: 26
 state: normally
-size: 16274
-The expected execution time 39
+size: 11304
+The expected execution time 262
 
 
-ID: 37
+ID: 204
 state: normally
-size: 14452
+size: 11331
+The expected execution time 500
+
+
+ID: 104
+state: normally
+size: 11518
+The expected execution time 390
+
+
+ID: 240
+state: normally
+size: 11534
+The expected execution time 84
+
+
+ID: 192
+state: IOtrminate
+size: 11542
+The expected execution time 450
+
+
+ID: 153
+state: normally
+size: 11596
+The expected execution time 447
+
+
+ID: 222
+state: IOtrminate
+size: 11597
+The expected execution time 107
+
+
+ID: 76
+state: abnormally
+size: 11742
+The expected execution time 486
+
+
+ID: 205
+state: normally
+size: 11907
+The expected execution time 208
+
+
+ID: 106
+state: normally
+size: 12004
+The expected execution time 505
+
+
+ID: 169
+state: normally
+size: 12125
+The expected execution time 270
+
+
+ID: 167
+state: normally
+size: 12161
+The expected execution time 202
+
+
+ID: 232
+state: IOtrminate
+size: 12195
+The expected execution time 467
+
+
+ID: 215
+state: abnormally
+size: 12269
+The expected execution time 480
+
+
+ID: 176
+state: normally
+size: 12295
+The expected execution time 215
+
+
+ID: 217
+state: normally
+size: 12507
+The expected execution time 382
+
+
+ID: 155
+state: IOtrminate
+size: 12725
+The expected execution time 407
+
+
+ID: 248
+state: normally
+size: 12745
+The expected execution time 236
+
+
+ID: 177
+state: IOtrminate
+size: 12753
+The expected execution time 450
+
+
+ID: 102
+state: IOtrminate
+size: 12755
+The expected execution time 83
+
+
+ID: 63
+state: normally
+size: 12763
+The expected execution time 389
+
+
+ID: 23
+state: abnormally
+size: 12827
+The expected execution time 208
+
+
+ID: 55
+state: normally
+size: 12840
+The expected execution time 32
+
+
+ID: 226
+state: abnormally
+size: 12946
+The expected execution time 323
+
+
+ID: 179
+state: normally
+size: 12960
+The expected execution time 16
+
+
+ID: 110
+state: abnormally
+size: 13097
+The expected execution time 152
+
+
+ID: 243
+state: abnormally
+size: 13191
+The expected execution time 348
+
+
+ID: 77
+state: normally
+size: 13234
+The expected execution time 437
+
+
+ID: 5
+state: abnormally
+size: 13286
+The expected execution time 147
+
+
+ID: 66
+state: IOtrminate
+size: 13400
+The expected execution time 178
+
+
+ID: 137
+state: normally
+size: 13443
+The expected execution time 150
+
+
+ID: 152
+state: abnormally
+size: 13450
+The expected execution time 20
+
+
+ID: 62
+state: normally
+size: 13453
+The expected execution time 381
+
+
+ID: 52
+state: normally
+size: 13474
+The expected execution time 75
+
+
+ID: 156
+state: normally
+size: 13586
+The expected execution time 467
+
+
+ID: 172
+state: IOtrminate
+size: 13615
+The expected execution time 122
+
+
+ID: 124
+state: normally
+size: 13664
+The expected execution time 103
+
+
+ID: 141
+state: IOtrminate
+size: 13751
+The expected execution time 18
+
+
+ID: 142
+state: normally
+size: 13813
+The expected execution time 107
+
+
+ID: 231
+state: normally
+size: 13937
+The expected execution time 201
+
+
+ID: 239
+state: IOtrminate
+size: 14019
+The expected execution time 157
+
+
+ID: 148
+state: normally
+size: 14023
+The expected execution time 359
+
+
+ID: 233
+state: abnormally
+size: 14059
+The expected execution time 328
+
+
+ID: 184
+state: normally
+size: 14124
+The expected execution time 313
+
+
+ID: 135
+state: IOtrminate
+size: 14166
+The expected execution time 252
+
+
+ID: 44
+state: normally
+size: 14221
+The expected execution time 265
+
+
+ID: 99
+state: normally
+size: 14226
+The expected execution time 204
+
+
+ID: 119
+state: normally
+size: 14505
+The expected execution time 95
+
+
+ID: 160
+state: IOtrminate
+size: 14592
+The expected execution time 382
+
+
+ID: 193
+state: normally
+size: 14630
+The expected execution time 234
+
+
+ID: 54
+state: abnormally
+size: 14756
+The expected execution time 387
+
+
+ID: 200
+state: abnormally
+size: 14756
+The expected execution time 95
+
+
+ID: 158
+state: IOtrminate
+size: 14799
+The expected execution time 123
+
+
+ID: 27
+state: normally
+size: 14867
+The expected execution time 214
+
+
+ID: 38
+state: normally
+size: 14878
+The expected execution time 331
+
+
+ID: 120
+state: IOtrminate
+size: 14934
+The expected execution time 186
+
+
+ID: 72
+state: normally
+size: 15064
+The expected execution time 41
+
+
+ID: 24
+state: normally
+size: 15244
+The expected execution time 72
+
+
+ID: 96
+state: IOtrminate
+size: 15306
+The expected execution time 333
+
+
+ID: 32
+state: normally
+size: 15334
+The expected execution time 353
+
+
+ID: 92
+state: abnormally
+size: 15407
+The expected execution time 503
+
+
+ID: 180
+state: normally
+size: 15423
+The expected execution time 116
+
+
+ID: 164
+state: normally
+size: 15615
+The expected execution time 80
+
+
+ID: 114
+state: IOtrminate
+size: 15641
+The expected execution time 205
+
+
+ID: 60
+state: normally
+size: 15686
+The expected execution time 356
+
+
+ID: 146
+state: normally
+size: 15701
+The expected execution time 27
+
+
+ID: 220
+state: normally
+size: 15713
+The expected execution time 98
+
+
+ID: 194
+state: normally
+size: 15906
+The expected execution time 47
+
+
+ID: 250
+state: normally
+size: 8257
+The expected execution time 511
+
+
+ID: 144
+state: IOtrminate
+size: 15958
+The expected execution time 171
+
+
+ID: 234
+state: IOtrminate
+size: 15971
+The expected execution time 382
+
+
+ID: 123
+state: abnormally
+size: 16170
+The expected execution time 487
+
+
+ID: 130
+state: normally
+size: 16249
+The expected execution time 385
+
+
+ID: 143
+state: IOtrminate
+size: 16327
+The expected execution time 25
+
+
+ID: 171
+state: abnormally
+size: 16352
+The expected execution time 506
+
+
+ID: 82
+state: normally
+size: 15918
 The expected execution time 513
 
 
-ID: 36
-state: normally
-size: 8855
-The expected execution time 520
+ID: 47
+state: IOtrminate
+size: 4778
+The expected execution time 515
+
+
+ID: 162
+state: IOtrminate
+size: 9237
+The expected execution time 516
+
+
+ID: 196
+state: abnormally
+size: 221
+The expected execution time 519
 
 
