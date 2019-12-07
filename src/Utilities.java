@@ -25,6 +25,7 @@ public class Utilities {
         while (HDD > 0) {
             nJobs++;
             PCB k = new PCB(nJobs);
+            k.setBasedOnSize(true);
             HDDQ.add(k);
             HDD -= k.getSize();
             sizeJ += k.getSize();
@@ -38,6 +39,7 @@ public class Utilities {
                 break;
             }
             PCB k = HDDQ.remove();
+            k.setBasedOnSize(false);
             RAMQ.add(k);
             ram -= k.getSize();
         }

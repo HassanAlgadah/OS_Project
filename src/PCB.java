@@ -4,8 +4,10 @@ public class PCB implements Comparable<PCB> {
 	private Integer executionTime;
 	private int processID;
 	private String processState ;
-	private int size;
+	private Integer size;
 	private boolean isInterrupted ;
+	//to choose the order of the prioryQueue if true the smallest size first if false smallest executionTime first
+	private boolean BasedOnSize;
 
 
 	public PCB(int processID) {
@@ -20,7 +22,11 @@ public class PCB implements Comparable<PCB> {
 	//a compare to method so we can use the interface Comparable
 	@Override
 	public int compareTo(PCB pcb) {
-		return getExecutionTime().compareTo(pcb.getExecutionTime());
+		if(BasedOnSize) {
+			return getSize().compareTo(pcb.getSize());
+		}else {
+			return getExecutionTime().compareTo(pcb.getExecutionTime());
+		}
 	}
 
 
@@ -32,7 +38,7 @@ public class PCB implements Comparable<PCB> {
 		this.executionTime = executionTime;
 	}
 
-	public int getSize() {
+	public Integer getSize() {
 		return size;
 	}
 
@@ -64,8 +70,16 @@ public class PCB implements Comparable<PCB> {
 		return isInterrupted;
 	}
 
-	public void setInterrupted(boolean interrupted) {
+	public void setisInterrupted(boolean interrupted) {
 		isInterrupted = interrupted;
+	}
+
+	public boolean isBasedOnSize() {
+		return BasedOnSize;
+	}
+
+	public void setBasedOnSize(boolean basedOnSize) {
+		BasedOnSize = basedOnSize;
 	}
 }
 

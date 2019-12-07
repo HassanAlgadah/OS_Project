@@ -14,6 +14,7 @@ public class CPU {
         while (!u.RAMQ.isEmpty()) {
             u.ToRam();
             PCB k = u.RAMQ.remove();
+            System.out.println(k.getExecutionTime());
             while (true) {
                 k.setProcessState("Ready");
                 k.setProcessState("Running");
@@ -24,7 +25,7 @@ public class CPU {
                     k.setProcessState("abnormally");
                     break;
                 } else if (u.IsInterrupt()) {
-                    k.setInterrupted(true);
+                    k.setisInterrupted(true);
                     k.setProcessState("Interrupted");
                 } else if (u.IsIOrequest()) {
                     k.setProcessState("Waiting");
